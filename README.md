@@ -1,10 +1,7 @@
-
-# assessment-2-react-application-declandeh00
+# Pub Quiz Assignment
 
 ### Name:
 Declan de Haas
-### Student Number:
-1000051803
 
 ## A URL to your RESTful API as a web service on Render.
 Here is the URL to my RESTful API as a web service on Render:
